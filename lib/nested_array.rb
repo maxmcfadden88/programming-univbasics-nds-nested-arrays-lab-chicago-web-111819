@@ -19,7 +19,7 @@ ENFIELD_TENNIS_ACADEMY = [
 def assembled_matrix
 [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
 end
-assembled_matrix
+puts assembled_matrix
 
 def array_literal_matrix
   # Using Array literal syntax only, build a nested array that uses the data in
